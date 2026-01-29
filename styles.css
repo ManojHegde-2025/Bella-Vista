@@ -8,6 +8,10 @@ html {
     scroll-padding-top:17vh ;
 }
 
+.nav-links a {
+  white-space: nowrap;
+}
+
 body{
     font-family: Arial, sans-serif;
     line-height: 1.6;
